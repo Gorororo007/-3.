@@ -1,0 +1,16 @@
+      Game Statistics:
+      ----------------
+      Player:
+        Ships Lost: 5
+        Total Shots: 68
+        Hits: 20
+        Misses: 48
+        Remaining Ships: 11
+      
+      Computer:
+        Ships Lost: 10
+        Total Shots: 40
+        Hits: 12
+        Misses: 28
+        Remaining Ships: 0
+    
